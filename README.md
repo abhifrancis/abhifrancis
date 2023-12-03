@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abhifrancis
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m abhi
+- 👀 interested in web3 blockchain crypto
+- 🌱 currently learning python
 - 💞️ running code
 - 📫 abhifrancis3
