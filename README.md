@@ -2,4 +2,4 @@
 - 👀 interested in web3 blockchain crypto
 - 🌱 currently learning python
 - 💞️ running code
-- 📫 abhifrancis3
+- 📫 abhifrancis
